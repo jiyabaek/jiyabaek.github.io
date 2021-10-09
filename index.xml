@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiyeon Baek&#39;s Photography Portfolio</title>
+    <link>http://jiyabaek.github.io/</link>
+    <description>Recent content on Jiyeon Baek&#39;s Photography Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Oct 2021 22:28:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://jiyabaek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wild at Hearth</title>
+      <link>http://jiyabaek.github.io/posts/wild-at-hearth/</link>
+      <pubDate>Fri, 08 Oct 2021 22:28:39 -0400</pubDate>
+      
+      <guid>http://jiyabaek.github.io/posts/wild-at-hearth/</guid>
+      <description>A selection of photographs from the series Wild at Hearth
+Alaska New Jersey Work in progress; I look forward to exploring the hidden corners of wilderness in North Jersey</description>
+    </item>
+    
+    <item>
+      <title>Town,home</title>
+      <link>http://jiyabaek.github.io/posts/townhome/</link>
+      <pubDate>Fri, 08 Oct 2021 22:28:22 -0400</pubDate>
+      
+      <guid>http://jiyabaek.github.io/posts/townhome/</guid>
+      <description>A selection of photographs from the series Town, Home </description>
+    </item>
+    
+    <item>
+      <title>Winter Walks</title>
+      <link>http://jiyabaek.github.io/posts/winter-walks/</link>
+      <pubDate>Fri, 08 Oct 2021 22:27:51 -0400</pubDate>
+      
+      <guid>http://jiyabaek.github.io/posts/winter-walks/</guid>
+      <description>A selection of photographs from the series Winter Walks</description>
+    </item>
+    
+  </channel>
+</rss>
